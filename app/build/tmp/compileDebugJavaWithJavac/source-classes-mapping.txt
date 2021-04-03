@@ -1,0 +1,2 @@
+com/example/affirmations/BuildConfig.java
+ com.example.affirmations.BuildConfig
